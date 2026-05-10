@@ -28,11 +28,7 @@ export default function HomeScreen() {
       text: "Practice AWS",
       completed: false,
     },
-    {
-      id: "4",
-      text: "Complete Frontend Project",
-      completed: true,
-    },
+   
     {
       id: "5",
       text: "Learn Redux Toolkit",
