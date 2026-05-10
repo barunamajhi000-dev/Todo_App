@@ -21,7 +21,7 @@ export default function HomeScreen() {
     {
       id: "2",
       text: "Build Todo App",
-      completed: false,
+      completed: true,
     },
     {
       id: "3",
